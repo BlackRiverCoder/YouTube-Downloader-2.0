@@ -1,3 +1,4 @@
+[![Downloads](https://img.shields.io/github/downloads/Tyrrrz/YoutubeDownloader/total.svg)](https://github.com/Tyrrrz/YoutubeDownloader/releases)
 # YouTube-Downloader-2.0
 #1. In first menu you choose if you want the file to be downloaded like .mp3 or .mp4
 
