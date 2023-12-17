@@ -1,4 +1,4 @@
-[![Downloads](https://img.shields.io/github/downloads/BlackRiverCoder/YouTube-Downloader-2.0/total.svg)](https://github.com/BlackRiverCoder/YouTube-Downloader-2.0/releases)
+[![Downloads](https://img.shields.io/github/downloads/BlackRiverCoder/YouTube-Downloader-2.0/total.svg)]()
 # YouTube-Downloader-2.0
 
 ## Requirements
